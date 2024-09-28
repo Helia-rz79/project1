@@ -10,7 +10,7 @@
 
 - Developed by helia rezaie
 
-- Created - 2024-09-19
+-📰 Created - 2024-09-19
 
 - Technologies Used - Html , css .
 
@@ -18,4 +18,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/helia.r-web) and [linkedin](https://www.linkedin.com/in/helia-rezaie-web)
+-🙋 How to reach me : with my [instagram](https://www.instagram.com/helia.r-web) and [linkedin](https://www.linkedin.com/in/helia-rezaie-web)
